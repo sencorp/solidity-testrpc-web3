@@ -1,4 +1,4 @@
-# How to develop a web app on Ethereum with Solidity, TestRPC and Web3.js.
+# How to develop web apps on Ethereum with Solidity, TestRPC and Web3.js.
 
 > Short video tutorial about developing web apps on Ethereum with TestRPC and Web3.js
 
