@@ -2,7 +2,7 @@
 
 > Short video tutorial about developing web apps on Ethereum with TestRPC and Web3.js
 
-## Instructions
+## Instructions on setting up the development environment
 Installation and testing were done in MacOS.
 1. Install [node.js](http://nodejs.org/).
 2. [testrpc](https://github.com/ethereumjs/testrpc): to install globally, in Terminal, run "npm install -g ethereumjs-testrpc". After the installation, run "testrpc", this will generate 10 test accounts pre-funded with 100 ether. 
